@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/classwork8/static/css/main.f855e6bc.css",
-    "main.js": "/classwork8/static/js/main.86e5766f.js",
-    "static/js/453.ec485c36.chunk.js": "/classwork8/static/js/453.ec485c36.chunk.js",
+    "main.css": "/classwork8/static/css/main.23132b91.css",
+    "main.js": "/classwork8/static/js/main.71cd418a.js",
+    "static/js/453.34dd7500.chunk.js": "/classwork8/static/js/453.34dd7500.chunk.js",
     "index.html": "/classwork8/index.html",
-    "main.f855e6bc.css.map": "/classwork8/static/css/main.f855e6bc.css.map",
-    "main.86e5766f.js.map": "/classwork8/static/js/main.86e5766f.js.map",
-    "453.ec485c36.chunk.js.map": "/classwork8/static/js/453.ec485c36.chunk.js.map"
+    "main.23132b91.css.map": "/classwork8/static/css/main.23132b91.css.map",
+    "main.71cd418a.js.map": "/classwork8/static/js/main.71cd418a.js.map",
+    "453.34dd7500.chunk.js.map": "/classwork8/static/js/453.34dd7500.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.86e5766f.js"
+    "static/css/main.23132b91.css",
+    "static/js/main.71cd418a.js"
   ]
 }
